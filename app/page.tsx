@@ -1,6 +1,6 @@
 "use client";
 
-import AuthButton from "@/components/AuthButton";
+import AuthButton from "@/components/Authentication/AuthButton";
 import { SessionProvider } from "next-auth/react";
 
 export default function Home() {
